@@ -1,0 +1,105 @@
+﻿  NodA.cpp
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(76,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(78,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(87,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(90,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(92,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(102,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(119,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(122,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(124,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(135,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(185,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(208,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(212,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(228,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(251,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(327,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NodKM.cpp
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(76,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(78,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(87,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(90,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(92,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(102,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(119,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(122,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(124,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(135,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(185,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(208,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(212,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(228,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(251,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(327,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(40,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(73,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(76,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(78,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(88,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(107,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(110,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(112,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(122,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(168,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(191,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(195,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(211,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(234,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(297,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(28,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(69,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(92,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(96,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(112,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(136,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(216,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(219,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(221,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(231,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(303,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(76,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(78,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(87,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(90,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(92,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(102,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(119,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(122,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(124,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(135,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(185,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(208,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(212,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(228,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(251,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodA.cpp(327,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(40,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(73,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(76,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(78,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(88,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(107,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(110,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(112,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(122,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(168,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(191,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(195,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(211,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(234,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodB.cpp(297,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(28,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(69,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(92,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(96,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(112,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(136,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(216,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(219,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(221,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(231,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eucar\source\repos\Tema SI 1\Tema SI 1\NodKM.cpp(303,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Tema SI 1.vcxproj -> C:\Users\eucar\source\repos\Tema SI 1\Debug\Tema SI 1.exe
